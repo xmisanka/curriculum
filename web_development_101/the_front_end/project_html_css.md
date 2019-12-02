@@ -88,6 +88,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+* [Michaela's Solution (Easy)](https://github.com/xmisanka/google-homepage) - [View in Browser](https://xmisanka.github.io/google_homepage/)
 * [Vincent's Solution (Easy)](https://github.com/vincent585/google-homepage) - [View in Browser](https://vincent585.github.io/google-homepage/)
 * [Rachel's Solution (Easy)](https://github.com/rlmoser99/google-homepage) - [View in Browser](https://rlmoser99.github.io/google-homepage/)
 * [Rachel's Solution (Hard)](https://github.com/rlmoser99/google-searchpage) - [View in Browser](https://rlmoser99.github.io/google-searchpage/)
